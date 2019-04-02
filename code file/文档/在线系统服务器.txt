@@ -1,0 +1,6 @@
+服务器程序运行及关闭
+/etc/init.d/roms start
+/etc/init.d/roms stop
+守护进程配置文件
+/etc/init.d/roms
+/usr/roms/romskeepex.cfg

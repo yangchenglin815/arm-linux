@@ -1,0 +1,1 @@
+regedit->HKEY-CURRENT-USER->software->Microsoft->windows->windows error reporting->dontshowUI->1

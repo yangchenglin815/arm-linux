@@ -1,0 +1,23 @@
+netstat -ant | grep  查看状态
+netstat -tnlp
+
+window系统：192.168.1.182
+用户名：administrator
+密码：linkivr182!
+端口：3308
+
+192.168.1.199 ：3306
+
+windows 远程连接桌面：mstsc
+
+
+VC bug:  ws2_32.lib
+project->settings->C/C++->Category:Code Generation->Use run-time library:Multithreaded
+
+odbc 32bit
+
+C:\Windows\SysWOW64
+
+netstat -an
+
+远程端口3389

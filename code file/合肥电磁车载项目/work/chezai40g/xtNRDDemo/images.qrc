@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/bar1.png</file>
+        <file>images/bar2.png</file>
+        <file>images/bar3.png</file>
+        <file>images/bar4.png</file>
+        <file>images/corlogo.png</file>
+        <file>images/img_rssi_good.png</file>
+        <file>images/img_rssi_great.png</file>
+        <file>images/img_rssi_invalid.png</file>
+        <file>images/img_rssi_moderate.png</file>
+        <file>images/img_rssi_poor.png</file>
+        <file>images/01.png</file>
+        <file>images/02.png</file>
+        <file>images/03.png</file>
+        <file>images/hefushe.jpg</file>
+        <file>images/bar5.png</file>
+        <file>images/demoinfo.png</file>
+        <file>images/infoptn.png</file>
+    </qresource>
+</RCC>

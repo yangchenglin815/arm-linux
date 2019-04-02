@@ -1,0 +1,50 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: fh40g - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Build : warning : failed to (or don't know how to) build 'G:\uuuu\º¼ÖÝÕ¾\fh40g.server\tools.cpp'
+
+Build : warning : failed to (or don't know how to) build 'G:\uuuu\º¼ÖÝÕ¾\fh40g.server\tcpsocket.cpp'
+
+Build : warning : failed to (or don't know how to) build 'G:\uuuu\º¼ÖÝÕ¾\fh40g.server\TAesClass.cpp'
+
+Build : warning : failed to (or don't know how to) build 'G:\uuuu\º¼ÖÝÕ¾\fh40g.server\StdAfx.cpp'
+
+Creating temporary file "C:\Users\ycl\AppData\Local\Temp\RSP995C.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/fh40g.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\ycl\Desktop\code file\fh40g.server2\fh40g.cpp"
+]
+Creating command line "cl.exe @C:\Users\ycl\AppData\Local\Temp\RSP995C.tmp" 
+Creating temporary file "C:\Users\ycl\AppData\Local\Temp\RSP996D.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib ws2_32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/fh40g.pdb" /debug /machine:I386 /out:"Debug/fh40g.exe" /pdbtype:sept 
+".\Debug\cini.obj"
+".\Debug\dlist.obj"
+".\Debug\fh40g.obj"
+".\Debug\StdAfx.obj"
+".\Debug\TAesClass.obj"
+".\Debug\tcpsocket.obj"
+".\Debug\tools.obj"
+]
+Creating command line "link.exe @C:\Users\ycl\AppData\Local\Temp\RSP996D.tmp"
+<h3>Output Window</h3>
+Compiling...
+fh40g.cpp
+Linking...
+Build : warning : failed to (or don't know how to) build 'G:\uuuu\º¼ÖÝÕ¾\fh40g.server\dlist.cpp'
+
+Build : warning : failed to (or don't know how to) build 'G:\uuuu\º¼ÖÝÕ¾\fh40g.server\cini.cpp'
+
+
+
+
+<h3>Results</h3>
+fh40g.exe - 0 error(s), 6 warning(s)
+</pre>
+</body>
+</html>

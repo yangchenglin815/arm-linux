@@ -1,0 +1,58 @@
+netstat -ant | grep  查看状态
+netstat -tnlp
+
+公司182服务器：
+window系统：192.168.1.182
+用户名：administrator
+密码：linkivr182!
+端口：3308
+
+192.168.1.199 ：3306
+
+windows 远程连接桌面：mstsc
+
+vc软件出错解决：
+VC bug:  ws2_32.lib
+project->settings->C/C++->Category:Code Generation->Use run-time library:Multithreaded
+
+odbc 32bit
+
+C:\Windows\SysWOW64
+
+netstat -an
+
+远程端口3389
+
+电磁	常规普及版	A
+电磁	常规专业版	B
+电磁	车载版	 C
+电离	常规普及版	D
+电离	常规专业版	E
+电离	车载版	 F
+电离	应急版	 G
+工频 电磁电离   专业版  H
+电磁电离	在线版	O
+终端命名规则：类别-[年后两位][月两位][序号]
+例如:A-151001
+
+终端显示：
+中文版本
+S\N:终端编号
+保质期：xxxx年xx月xx日(保质期为一年，日为当月的最后一天)
+例如：
+电磁车载版
+S\N:A-151001
+保质期：2016年10月31日
+
+时间类型数据的获取方法：
+DATE_FORMAT(createtime,'%%Y-%%c-%%d %%H:%%i:%%s')
+
+数据库文字乱码 utf8->gb2312
+
+linux199用户：
+yangcl 
+yangcl
+
+make -f 指定Makefile文件
+vi 编辑器显示行数：set nu
+vi 编辑器直接跳转到指定行：+[行数]
